@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ $1 = "Kevin" ]
+then
+    echo "Hello $1"
+else
+    echo "Je ne vous connais pas"
+fi
