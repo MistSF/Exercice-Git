@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ $1 = "Kevin" ]
+if [ $1 = "Kevin" ] || [ $1 = "Vivien" ]
 then
     echo "Hello $1"
 else
